@@ -1,22 +1,17 @@
-Layout
-
-default
-
-Title
-
-Parcours
-
-Permalink
-
-/parcours/
+---
+layout: default
+title: "Parcours"
+permalink: /parcours/
+---
 
 {% include menu.html %}
 
-Parcours
-Formation
+# Parcours
 
-BTS SIO, option SLAM. À compléter : établissement et années.
+## Formation
 
-Stages et expériences
+BTS SIO, option SLAM. *À compléter : établissement et années.*
 
-À compléter : pour chaque stage, l'entreprise, la durée, tes missions et les technologies utilisées.
+## Stages et expériences
+
+*À compléter : pour chaque stage, l'entreprise, la durée, tes missions et les technologies utilisées.*
