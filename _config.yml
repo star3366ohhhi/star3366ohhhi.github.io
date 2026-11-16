@@ -1,4 +1,9 @@
 theme: jekyll-theme-minimal
-title: Evann Carrière
+title: Evann Carriere
 description: Portfolio BTS SIO SLAM
 show_downloads: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
