@@ -17,7 +17,7 @@ BTS SIO option SLAM à Aurillac.
 
 ## Expériences professionnelles
 
-## Développeur Site Web
+### Développeur Site Web
 **Juin 2026** . COOP Laëtis - Arvieu
 
 ### Informatique en entreprise
