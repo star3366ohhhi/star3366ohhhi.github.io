@@ -1,29 +1,23 @@
-Layout
-
-default
-
-Title
-
-Compétences
-
-Permalink
-
-/competences/
+---
+layout: default
+title: "Compétences"
+permalink: /competences/
+---
 
 {% include menu.html %}
 
-Compétences
+# Compétences
 
-À ajuster selon ce que tu maîtrises vraiment.
+*À ajuster selon ce que tu maîtrises vraiment.*
 
-Développement
+## Développement
 
 PHP, JavaScript (Electron), Luau.
 
-Web
+## Web
 
 WordPress, HTML et CSS, Schema.org.
 
-Systèmes et réseaux
+## Systèmes et réseaux
 
 VMware (vCenter, ESXi), pfSense.
