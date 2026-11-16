@@ -1,1 +1,7 @@
-{% assign entries = "Accueil:/|Moi:/moi/|Parcours:/parcours/|Projets:/projets/|Compétences:/competences/|Veille:/veille/|Contact:/contact/" | split: "|" %} {% for entry in entries %} {% assign parts = entry | split: ":" %} {{ parts[0] }} {% endfor %}
+<nav class="menu" aria-label="Navigation du portfolio">
+{% assign entries = "Accueil:/|Moi:/moi/|Parcours:/parcours/|Projets:/projets/|Compétences:/competences/|Veille:/veille/|Contact:/contact/" | split: "|" %}
+{% for entry in entries %}
+  {% assign parts = entry | split: ":" %}
+  <a href="{{ parts[1] | relative_url }}"{% if page.url == parts[1] %} aria-current="page"{% endif %}>{{ parts[0] }}</a>
+{% endfor %}
+</nav>
