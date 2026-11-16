@@ -1,17 +1,11 @@
-Layout
-
-default
-
-Title
-
-Contact
-
-Permalink
-
-/contact/
+---
+layout: default
+title: "Contact"
+permalink: /contact/
+---
 
 {% include menu.html %}
 
-Contact
+# Contact
 
-À compléter : ton adresse e-mail et le lien vers ton profil GitHub.
+*À compléter : ton adresse e-mail et le lien vers ton profil GitHub.*
