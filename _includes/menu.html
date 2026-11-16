@@ -1,0 +1,1 @@
+{% assign entries = "Accueil:/|Moi:/moi/|Parcours:/parcours/|Projets:/projets/|Compétences:/competences/|Veille:/veille/|Contact:/contact/" | split: "|" %} {% for entry in entries %} {% assign parts = entry | split: ":" %} {{ parts[0] }} {% endfor %}
