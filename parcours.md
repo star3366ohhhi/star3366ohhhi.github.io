@@ -10,15 +10,13 @@ permalink: /parcours/
 
 ## Formation
 
-Bac Pro SN(Système Numérique) option RISC à Rodez.
+Bac Pro SN (Système Numérique) option RISC à Rodez.
 BTS SIO option SLAM à Aurillac.
-
-## Stages et expériences
 
 ## Expériences professionnelles
 
 ### Développeur Site Web
-**Juin 2026** . COOP Laëtis - Arvieu
+**Juin 2026** · COOP Laëtis — Arvieu
 
 ### Informatique en entreprise
 **Février 2025** · SIA 12 — Sébazac
