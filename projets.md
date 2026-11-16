@@ -1,25 +1,19 @@
-Layout
-
-default
-
-Title
-
-Projets
-
-Permalink
-
-/projets/
+---
+layout: default
+title: "Projets"
+permalink: /projets/
+---
 
 {% include menu.html %}
 
-Projets
+# Projets
 
-À compléter : une courte présentation de chaque projet, avec un lien vers sa page détaillée et vers son dépôt GitHub.
+*À compléter : une courte présentation de chaque projet, avec un lien vers sa page détaillée et vers son dépôt GitHub.*
 
-Site web de tourisme en PHP
+## Site web de tourisme en PHP
 
-Site utilisant l'API Apidae, avec balisage Schema.org. Besoin, ce que j'ai fait, technologies, résultat.
+Site utilisant l'API Apidae, avec balisage Schema.org. *Besoin, ce que j'ai fait, technologies, résultat.*
 
-Lanceur de jeux en Electron
+## Lanceur de jeux en Electron
 
-Application de bureau empaquetée pour Windows. Besoin, ce que j'ai fait, technologies, résultat.
+Application de bureau empaquetée pour Windows. *Besoin, ce que j'ai fait, technologies, résultat.*
