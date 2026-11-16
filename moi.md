@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Accueil"
+title: "Moi"
+permalink: /moi/
 ---
 
 {% include menu.html %}
